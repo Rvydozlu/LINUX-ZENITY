@@ -21,6 +21,7 @@ Daha sonra çalıştırılacak ilk kod aşağıdaki gibi olup , kullanıcıları
 Gerekli bilgiler verildikten sonra kullanıcıdan eklediği etkinliğe dair daha detaylı bilgi vermesi istenecektir. İstenen bilgiler de aşağıdaki resimde gösterildiği gibidir. 
 
 ![5](https://user-images.githubusercontent.com/54940125/210761320-f1e7586a-6080-4433-8f14-d8b51baa6b62.png)
+
 Örnek şekilde doldurulmuş hali de şu şekilde görünmektedir: 
 
 ![6](https://user-images.githubusercontent.com/54940125/210761616-64eed439-8850-4db1-97d1-66e77e4843ba.png)
