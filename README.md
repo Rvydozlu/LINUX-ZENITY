@@ -25,7 +25,8 @@ Gerekli bilgiler verildikten sonra kullanıcıdan eklediği etkinliğe dair daha
 
 Örnek şekilde doldurulmuş hali de şu şekilde görünmektedir: 
 
-![6](https://user-images.githubusercontent.com/54940125/210761616-64eed439-8850-4db1-97d1-66e77e4843ba.png)
+![1 1](https://user-images.githubusercontent.com/54940125/210813866-3f8f20d5-3a65-444f-b6c4-836cafc1b917.png)
+
 
 Bu bilgilere ek olarak belirlenen etkinliğin tarihi bir sonraki ekranda görünecek olan takvimde kullanıcıdan istenecekir.
 
