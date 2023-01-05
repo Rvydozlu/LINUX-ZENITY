@@ -1,5 +1,7 @@
 RÜVEYDA ÖZLÜ
+
 BURSA TEKNİK ÜNİVERSİTESİ - BİLGİSAYAR MÜHENDİSLİĞİ
+
 YOUTUBE LİNKİ: https://www.youtube.com/watch?v=e4g-TkBp01Y
 
 # LINUX-ZENITY
