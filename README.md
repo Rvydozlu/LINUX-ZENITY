@@ -2,7 +2,7 @@ YOUTUBE LİNKİ: https://www.youtube.com/watch?v=e4g-TkBp01Y
 
 # LINUX-ZENITY
 
-Linux Araçları ve Kabuk Programlama dersine ait bu projede günlük hayatta da sıkça kullandığımız bir araç olan takvim de , planlamalarımızı, etkinliklerimizi yada bizim için önemli olan günleri seçerek o günlere ait eklemek istediğimiz notları yazarak günleri etiketlememizi sağlayan bir araç Zenity yardımcı programı ile geliştirilmiştir.
+Linux Araçları ve Kabuk Programlama dersine ait bu projede günlük hayatta da sıkça kullandığımız bir araç olan takvimde , planlamalarımızı, etkinliklerimizi yada bizim için önemli olan günleri seçerek o günlere ait eklemek istediğimiz notları yazarak günleri etiketlememizi sağlayan bir araç Zenity yardımcı programı ile geliştirilmiştir.
 
 Eğer kullanılacak Linux işletim sisteminde Zenity ile bir geliştirme yapılacaksa ilk olarak "Terminal" den "sudo apt install zenity" komutu ile sisteme eklenmelidir.
 Kurulum aşağıda gösterildiği şekildedir: 
